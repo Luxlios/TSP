@@ -41,6 +41,15 @@
 与遗传算法和粒子群算法不同，蚁群算法是专门用来解决 TSP 问题的启发式全局优化算法，不需要进行额外的变化。本实验中蚂蚁路径的选择采用轮盘赌法，信息素浓度采用Ant-Quantity 模型来模拟释放信息素的浓度。
           
 #### 收敛图
+<div align="center">
+  <img src="https://github.com/Luxlios/Figure/blob/main/TSP/Figure_1.png" height="300">
+</div>
+<div align="center">
+  <img src="https://github.com/Luxlios/Figure/blob/main/TSP/Figure_2.png" height="300">
+</div>
+<div align="center">
+  <img src="https://github.com/Luxlios/Figure/blob/main/TSP/Figure_3.png" height="300">
+</div>
 
 
 
