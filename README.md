@@ -1,6 +1,12 @@
 # TSP
 手写遗传算法、粒子群算法和蚁群算法解决34个省会城市的旅行商问题
 
+### Requirement
+`numpy`  
+`random`  
+`pandas`  
+`matplotlib`  
+
 ### Contents
 - [更新方式](#更新方式)
   - [遗传算法](#遗传算法更新方式)
